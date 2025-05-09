@@ -28,7 +28,7 @@ logging.basicConfig(
 AUTO_REPLY_MESSAGE = """
 Free 🆓 
 
-https://t.me/+yoNLqNg2sPlkZGU1
+https://t.me/+ZYlIT3XO1vRiM2Vl
 
 
 
